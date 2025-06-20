@@ -1,1 +1,17 @@
+{                                           
+    "description": "MonoClassic - Minecraft Server",
+    "domain": "creepers.sbs",
+    "subdomain": "mono",
 
+"country code": "none" 
+    
+    "owner": {
+        "github user": "https://github.com/notisunderstand", 
+        "email": "dikonpromotion@gmail.com" 
+    },
+                                                                                                           
+    "record": {
+        "NS": "ns61.cloudns.net", "ns62.cloudns.net", "ns63.cloudns.net", "ns64.cloudns.uk",  
+           },
+ "proxy": false
+}
